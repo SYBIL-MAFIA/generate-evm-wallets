@@ -39,4 +39,4 @@ print(f"{num_wallets} кошельков сгенерировано и сохр�
 ## Поддержка/Вопросы
 Metamask: 0x52924cD11D8A41F99ECfD5eD4852d2489611E060
 
-Telegram: @sdrm_tcb_opt_chat
+Telegram: https://t.me/retrodropTools
